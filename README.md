@@ -1,10 +1,10 @@
 ## 💫 Hi, I'm Sai Suraj Mohanty
- Aspiring AI Developer & Creative Technologist
- Interested in AI, LLMs, AI Agents, Automation, RAG, and Computer Vision
- Building with Python, Raspberry Pi, ESP32, and AI-powered systems
- Passionate about UI/UX, Design, Photography, and Video Editing
- Currently learning Machine Learning, Deep Learning, Transformers, and Production AI
- Building intelligent solutions for real-world problems
+ Aspiring AI Developer & Creative Technologist.
+ Interested in AI, LLMs, AI Agents, Automation, RAG, and Computer Vision.
+ Building with Python, Raspberry Pi, ESP32, and AI-powered systems.
+ Passionate about UI/UX, Design, Photography, and Video Editing.
+ Currently learning Machine Learning, Deep Learning, Transformers, and Production AI.
+ Building intelligent solutions for real-world problems.
 > Learn. Build. Deploy. Repeat.
 
 
