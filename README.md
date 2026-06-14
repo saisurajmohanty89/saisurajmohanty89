@@ -1,5 +1,12 @@
-#  About Me:
-# Hi, I'm Sai Suraj Mohanty <br><br> Aspiring AI Developer, Builder, and Creative Technologist<br><br>###  AI & Software<br><br>* Python Development<br>* Machine Learning & Deep Learning<br>* Large Language Models (LLMs)<br>* AI Agents & Automation<br>* Prompt Engineering<br>* RAG Systems & Vector Databases<br>* n8n Workflows<br>* LangGraph<br>* Claude Code<br>* Open-Source AI Tools<br><br>###  Hardware & Embedded Systems<br><br>* Raspberry Pi<br>* ESP32 & ESP32-S3<br>* Computer Vision<br>* AI + Hardware Integration<br><br>###  Creative Skills<br><br>* Cinematic Storytelling<br>* Color Grading<br>* Photography<br>* Graphic Design<br>* Video Editing<br>* UI/UX Design<br><br>###  Currently Learning<br><br>Following a structured roadmap covering:<br>Python , Machine Learning , Deep Learning , Transformers , LLMs , AI Agents , RAG Systems , Production AI<br><br>###  Goal<br><br>To build intelligent AI products that combine software, automation, and real-world hardware.<br><br>> Learn. Build. Deploy. Repeat.<br>
+## 💫 Hi, I'm Sai Suraj Mohanty
+ Aspiring AI Developer & Creative Technologist
+ Interested in AI, LLMs, AI Agents, Automation, RAG, and Computer Vision
+ Building with Python, Raspberry Pi, ESP32, and AI-powered systems
+ Passionate about UI/UX, Design, Photography, and Video Editing
+ Currently learning Machine Learning, Deep Learning, Transformers, and Production AI
+ Building intelligent solutions for real-world problems
+> Learn. Build. Deploy. Repeat.
+
 
 
 # 💻 Tech Stack:
