@@ -1,4 +1,4 @@
-## 💫 Hi, I'm Sai Suraj Mohanty
+##  Hi, I'm Sai Suraj Mohanty
  Aspiring AI Developer & Creative Technologist.
  Interested in AI, LLMs, AI Agents, Automation, RAG, and Computer Vision.
  Passionate about UI/UX, Design, Photography, and Video Editing.
